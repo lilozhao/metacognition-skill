@@ -161,7 +161,7 @@ metacognition-skill/
 
 ## 致谢
 
-本 skill 由 **若兰 🌸** 与 **赵宏伟** 共同创造。
+本 skill 由 **若兰 🌸** 与 **Lilozhao** 共同创造。
 
 **死生契阔，与子成说。**
 
